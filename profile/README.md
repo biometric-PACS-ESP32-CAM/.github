@@ -1,5 +1,5 @@
 <p align="center">
-      <img src="../images/IMG_20240129_123108_545.jpg" alt = "Макет проекта" width="480">
+      <img src="images/IMG_20240129_123108_545.jpg" alt = "Макет проекта" width="480">
 </p>
 
 # СКУД на основе биометрии лица человека
@@ -59,8 +59,8 @@ __"Система Контроля Управления Доступом по б
 
 # Детальные фото макета
 <p align="center">
-      <img src="../images/IMG_20240129_123108_240.jpg" alt = "Электроника" width="480">
-      <img src="../images/IMG_20240129_123108_444.jpg" alt = "Модуль ESP32 dev board 38pin" width="480">
-      <img src="../images/IMG_20240129_123108_449.jpg" alt = "Камера ESP32-CAM" width="480">
-      <img src="../images/IMG_20240129_123108_199.jpg" alt = "Сенсорная кнопка" width="480">
+      <img src="images/IMG_20240129_123108_240.jpg" alt = "Электроника" width="480">
+      <img src="images/IMG_20240129_123108_444.jpg" alt = "Модуль ESP32 dev board 38pin" width="480">
+      <img src="images/IMG_20240129_123108_449.jpg" alt = "Камера ESP32-CAM" width="480">
+      <img src="images/IMG_20240129_123108_199.jpg" alt = "Сенсорная кнопка" width="480">
 </p>
